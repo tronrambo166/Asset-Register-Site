@@ -1,0 +1,156 @@
+.menu{
+	background:#5B6BD9;
+}
+.nav .nav-item{
+	height:80px;
+}
+.nav-item a{
+	color:white;
+	width:170px;
+	height:80px;
+	text-align:center;
+	padding-top:20px;
+	text-decoration: none;
+}
+.nav-item a:hover{
+	background:#2939A6;
+	
+}
+
+.login:hover {background:#2939A6; color:white;}
+.nav-item .activ {background:#2939A6;}
+
+
+.login{
+	color:white;
+	margin-left:200px;
+	margin-bottom:17px;
+}
+
+.nav-item .activ {background:#2939A6;}
+.activ {background:#2939A6;}
+
+.navbar a{
+	text-decoration: none;
+	font-weight: bold;
+}
+.warning{
+	background:#F87A72;
+	color:#FFFFFF;
+	text-align:center;
+}
+.content{
+	margin-top:100px;
+}
+.content h1{
+	font-family:poppins-semibold,poppins,sans-serif;
+	color:#253D5F;
+}
+.content .btn{
+	background:#2939A6;
+	color:white;
+	width:150px;
+	height:50px;
+}
+.content-last{
+	margin-top:100px;
+	background:#FAFAFA;
+}
+.content-last h3{
+	color:#244574;
+}
+.content-last .content{
+	padding-bottom:70px;
+}
+.Statistics{
+	text-align:center;
+	margin-top:100px;
+	width:450px;
+	margin-left:450px;
+	
+}
+.Statistics{
+	color:#244574;
+}
+.imgone{
+	margin-left:200px;
+	position:absolute;
+}
+.imgone p{
+	width:168px;
+	text-align:center;
+	margin-left:30px;
+}
+.imgone img{
+	width:214px;
+	height:224px;
+	position:absolute;
+}
+
+.imgtow{
+	margin-left:700px;
+}
+.imgtow p{
+	width:168px;
+	text-align:center;
+	margin-left:30px;
+}
+.imgtow img{
+	width:214px;
+	height:224px;
+	
+}
+.chart h4{
+	color:#244574;;
+	text-align:center;
+	margin-top:100px;
+}
+.chart p{
+	text-align:center;
+	
+}
+.chart a{
+	margin-left:470px;
+	color:#6372DB;
+	font-size:15px;
+	margin-top:100px;
+	overflow:hidden;
+	text-decoration: none
+}
+.footer_bg{
+	background:#5B6BD9;
+	margin-top:50px;
+}
+.footer_bg ul li{
+}
+.footer_bg ul li a{
+	color:white;
+    text-decoration: none;
+}
+.footer_bg h5{
+	color:white;
+}
+.contact{
+	color:white;
+}
+.contact a{
+	text-decoration:none;
+	color:white;
+}
+.social_media ul a{
+    text-decoration: none;
+	list-style:none;
+}
+.social_media{
+	margin-left:30px;
+}
+.button{
+	background:yellow;
+	border-radius:20px;
+	width:80px;
+	border:1px solid yellow;
+}
+.button a{
+	text-decoration:none;
+	color:black;
+}
